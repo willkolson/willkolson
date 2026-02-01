@@ -25,9 +25,8 @@ Building automation tools and analytical frameworks to solve SEO challenges at s
 
 ## Technical Stack
 **SEO & Analytics:** GA4, Google Search Console, Google Tag Manager, Semrush, Ahrefs, Screaming Frog, OnCrawl  
-**Development:** Python, HTML/CSS, JavaScript, Git, Visual Studio Code  
 **Data & Reporting:** Looker, PowerBI, Tableau, SQL (learning), BigQuery  
-**Platforms:** WordPress, Shopify, Jira/Confluence  
+**Platforms:** Contentful, WordPress, Webflow, Jira/Confluence  
 
 ## Current Focus
 Exploring SEO automation through Python scripting and building proficiency in:
