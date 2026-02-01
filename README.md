@@ -39,7 +39,7 @@ Exploring SEO automation through Python scripting and building proficiency in:
 - 📧 willkolson@icloud.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/william-k-olson/)
 - 📍 Austin, TX
-- 🎯 Open to Senior SEO and Digital Operations roles## Hi there 👋
+- 🎯 Open to Senior SEO and Digital Operations roles
 
 <!--
 **willkolson/willkolson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
